@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahras23
 - 👀 I’m interested in python web development
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
