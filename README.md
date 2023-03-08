@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Fahras23
-- 👀 I’m interested in python web development
+- 👋 Hi, I’m Chris
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
