@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in devops/sre tech
-- 🌱 I’m currently working on my projects
+- 🌱 I’m currently working as SRE
 - 💞️ I’m looking to collaborate on automation projects related infrastructure scaling
 - 📫 How to reach me 2001krzysztoflyczak@gmail.com
 
