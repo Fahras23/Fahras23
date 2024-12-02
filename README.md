@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on chat projects
+- 👀 I’m interested in devops/sre tech
+- 🌱 I’m currently working on my projects
+- 💞️ I’m looking to collaborate on automation projects related infrastructure scaling
 - 📫 How to reach me 2001krzysztoflyczak@gmail.com
 
 <!---
