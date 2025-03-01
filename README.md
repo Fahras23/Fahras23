@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Commoner
-- 👀 I’m interested in devops/sre, linux, networking
+- 👀 I’m interested in devops/sre, linux, networking, kubernetes
 - 🌱 I’m currently working as SRE
-- 💞️ I’m looking to collaborate on CI/CD in projects
+- 💞️ I’m looking to collaborate on infrastructure setup in projects
 - 📫 How to reach me 2001krzysztoflyczak@gmail.com
 
 <!---
